@@ -1,4 +1,4 @@
-# Project Title: Food Website (Frontend)
+# Project Title: DesiDiet - Food Website (Frontend)
 
 A beginner-friendly **frontend web development project** created using **HTML and CSS**. This project is designed to help learners understand the fundamentals of building a responsive static website for a restaurant or food delivery service. It demonstrates essential skills in layout design, responsive structure, and UI organization.
 
